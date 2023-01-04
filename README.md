@@ -1,2 +1,2 @@
-# oms_docs
-oms docs
+# oms-docs
+oms-docs
